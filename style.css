@@ -1,0 +1,66 @@
+#banner{
+  text-align: center;
+  background-image: url("images/retouche.jpg");
+  opacity: 0.8;
+  background-size: cover;
+  font-size: 16px;
+  padding: 223px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner a:hover{
+  color: white;
+}
+
+.card{
+  padding: 50px;
+  font-weight: lighter;
+  text-align: center;
+}
+body{
+  background: rgb(245,245,245);
+  color: #604d53;
+  font-size: 13px;
+  font-family: Futura;
+  margin: 0;
+}
+
+h1{
+  text-align: center;
+  font-family: Futura;
+  color: #f3bb7b;
+  font-weight: lighter;
+  font-size: 65px;
+}
+h2 {
+	text-align: center;
+  font-family: Century Gothic;
+  color: #9da3a4;
+  font-weight: lighter;
+  font-size: 22px;
+}
+a {
+  color: #cb9264;
+}
+a:hover {
+  text-decoration: none;
+  color: #604d53;
+}
+#wufoo-z1q0zg9700axh9c{
+  color: #604d53;
+  background-color: rgb(245,245,245);
+  box-shadow: 1px 1px 3px lightgrey;
+}
+#footer{
+	padding: 30px;
+	background: rgb(30,30,30);
+	color: lightgrey;
+  text-align: center;
+}
+#footer a:hover{
+  color:white;
+}
+#footer a{
+  font-size: 20px;
+  color: lightgrey;
+}
