@@ -11,12 +11,14 @@
 #banner a:hover{
   color: white;
 }
-
 .card{
   padding: 50px;
   font-weight: lighter;
   text-align: center;
 }
+.col-xs-12{
+  text-align: center;
+  }
 body{
   background: rgb(245,245,245);
   color: #604d53;
@@ -49,7 +51,6 @@ a:hover {
 #wufoo-z1q0zg9700axh9c{
   color: #604d53;
   background-color: rgb(245,245,245);
-  box-shadow: 1px 1px 3px lightgrey;
 }
 #footer{
 	padding: 30px;
